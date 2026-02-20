@@ -10,7 +10,7 @@ I am a software developer with a focus on Python-based backend engineering and A
 
 ## Technical Stack
 
-**Languages:** Python, SQL, Bash  
+**Languages:** Python, C++, Javascript SQL, Bash  
 **Backend:** FastAPI, Django, Flask, RESTful APIs, gRPC, Microservices Architecture  
 **AI/ML:** PyTorch, TensorFlow, Hugging Face Transformers, Model Evaluation & Validation Pipelines  
 **Distributed Systems & Scalability:** Kafka, Redis, Celery, Docker, Kubernetes  
